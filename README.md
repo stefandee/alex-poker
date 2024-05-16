@@ -23,7 +23,7 @@ https://opensource.org/licenses/MIT
 # Install&Build
 Install the Free Pascal compiler, at least version 3.2.2
 
-For Windows, run !(build_poker.bat) to build&run
+For Windows, run [build_poker.bat](build_poker.bat) to build&run
 
 Should build&run fine on any other platform supported by Free Pascal compiler.
 
